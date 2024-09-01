@@ -3,7 +3,8 @@
 ##### I know.. my name is a little too long 😅 You can call me Kaka
 
 ⚡ About me
-I just finished my education in Computer Science at Padjadjaran University. My interests are Data Science, Business, Coffee, and Games.
+- I just finished my education in Computer Science at Padjadjaran University.
+- My interests are Data Science, Business, Coffee, and Games.
 
 🌱 I’m currently learning
 - Backend Developing with Golang
