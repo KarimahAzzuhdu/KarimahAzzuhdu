@@ -3,13 +3,12 @@
 ##### I know.. my name is a little too long 😅 You can call me Kaka
 
 ⚡ About me
-- I'm currently a final year student of Computer Science at Universitas Padjadjaran
-- Programming Language? mostly Python
-- I put my interest on Data Science, Business, Home Architecture, Movies, Games, and Books
+I just finished my education in Computer Science at Padjadjaran University. My interests are Data Science, Business, Coffee, and Games.
 
 🌱 I’m currently learning
-- Tableau and Google Data Studio
-- Oracle Apex (Low-code Development Platform)
+- Backend Developing with Golang
+- Simple Game Developing with Python
+- Digital Marketing for my personal bussiness
 
 ### Connect with Me
 
