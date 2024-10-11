@@ -7,9 +7,10 @@
 - My interests are Data Science, Business, Coffee, and Games.
 
 🌱 I’m currently learning
+- Quality Assurance with Playwright
 - Backend Developing with Golang
-- Simple Game Developing with Python
-- Digital Marketing for my personal bussiness
+- Simple Game Development with Python
+- Digital Marketing for my business
 
 ### Connect with Me
 
