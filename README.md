@@ -11,7 +11,7 @@
 - Backend Developing with Golang
 - Simple Game Development with Python
 - Digital Marketing for my business
-
+<!--
 ### Connect with Me
 
 <p align="center">
@@ -20,7 +20,7 @@
   <a target="_blank" href="mailto:karimah.atm@gmail.com"><img alt="Email" src=""></a>
 </p>
 
-<!--
+
 **KarimahAzzuhdu/KarimahAzzuhdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
