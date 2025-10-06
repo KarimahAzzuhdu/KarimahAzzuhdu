@@ -55,5 +55,5 @@ you’ll probably find me brewing coffee or sketching ideas for my next product 
 ---
 
 ### 📫 Get in Touch
-💼 [LinkedIn][https://www.linkedin.com/in/karimahazzuhdu/]  
+💼 [LinkedIn](https://www.linkedin.com/in/karimahazzuhdu/)  
 📧 [Email Me](mailto:karimah.atm@gmail.com)
