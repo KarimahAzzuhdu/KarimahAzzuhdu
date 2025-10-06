@@ -43,8 +43,8 @@ Recently I've been exploring:
 ---
 
 ### 🧰 Tech Stack & Tools
-`Python` • `Golang` • `JavaScript` • `Godot` • `Playwright` • `Git` • `Google Workspace`  
-`Figma` • `Canva` • `Shopify` • `WordPress`
+`Python` • `Golang` • `JavaScript` • `Godot` • `Playwright` • `Git` • `Google Workspace` • `Google Ads` • `Google Analytics` 
+`Figma` • `Canva` • `WordPress`
 
 ---
 
